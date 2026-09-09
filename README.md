@@ -30,5 +30,3 @@ A simple random password generator built using Python.
 - `string` module
 - Strings
 - `random.choice()`
-
-
